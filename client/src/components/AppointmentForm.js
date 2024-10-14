@@ -2,7 +2,7 @@
 import React, { useState } from 'react';  // React and Hooks
 import axios from 'axios';                // Axios for API requests
 import { useNavigate } from 'react-router-dom'; // Navigation hook from React Router
-import './AppointmentForm.css';           // Styling
+import './AppointmentForm.css';           // Styling CSS
 
 /**
  * Container Component: AppointmentForm
