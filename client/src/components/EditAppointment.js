@@ -2,7 +2,7 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import { useNavigate, useParams } from 'react-router-dom';
-import './EditAppointment.css'; // Import the CSS styling
+import './EditAppointment.css'; // Import the CSS styling Sheet
 
 const EditAppointment = () => {
   const { id } = useParams();
